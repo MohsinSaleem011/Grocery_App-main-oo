@@ -71,7 +71,8 @@ class _loginScreenState extends State<loginScreen> {
           Padding(
             padding: const EdgeInsets.symmetric(horizontal: 28.0),
             child: Text(
-              'Please enter your mobile number',
+              // 'Please enter your mobile number',
+              "Please enter your name text and something elese wtastsvd",
               textAlign: TextAlign.center,
               style: GoogleFonts.dmSans(
                 color: Color(0xff06161C),
@@ -81,7 +82,8 @@ class _loginScreenState extends State<loginScreen> {
             ),
           ),
           Text(
-            'We will send you a verification code',
+            // 'We will send you a verification code',
+            "jhsfgds mfgdhshfg jhdsfhghjdfgdh ",
             textAlign: TextAlign.center,
             style: GoogleFonts.dmSans(
               color: Color(0xff979899),
