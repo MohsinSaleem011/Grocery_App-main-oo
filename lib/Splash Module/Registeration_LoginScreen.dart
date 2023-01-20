@@ -223,7 +223,7 @@ class _Registeration_LoginScreenState extends State<Registeration_LoginScreen> {
                 // height: 46.h,
                 // width: 170.w,
                 child: Image(
-                  image: AssetImage('assets/facebookNew.png'),
+                  image: AssetImage('assets/facebook.png'),
                 ),
               ),
               SizedBox(width: 20.h,),
